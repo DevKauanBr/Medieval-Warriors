@@ -1,0 +1,16 @@
+@charset "UTF-8";
+
+body{
+    padding: 0px;
+    margin: 0px;
+}
+
+#game{
+    width: 320px;
+    height: 180px;
+    border: solid 1px black;
+    margin: auto;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    border-radius: 10px;
+}
