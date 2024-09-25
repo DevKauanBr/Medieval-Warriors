@@ -22,5 +22,5 @@ function verificOrient(){
 }
 
 
-setInterval(verificOrient, 1000)
+setInterval(verificOrient, 200)
   
